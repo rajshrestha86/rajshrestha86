@@ -1,6 +1,6 @@
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rajshrestha86&theme=tokyonight)
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=rajshrestha86&hide=php&theme=tokyonight">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&hide=php&theme=tokyonight" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajshrestha86&hide=php&theme=tokyonight" />
 </a>
 ### Hi there 👋
 
