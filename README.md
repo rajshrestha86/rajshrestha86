@@ -1,3 +1,4 @@
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rajshrestha86)
 ### Hi there 👋
 
 <!--
