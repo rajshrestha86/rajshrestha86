@@ -1,13 +1,3 @@
-<div>
-  <a href="https://github-readme-stats.vercel.app/api?username=rajshrestha86&theme=tokyonight">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=rajshrestha86&theme=tokyonight" />
-  </a>
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=rajshrestha86&hide=php&theme=tokyonight">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajshrestha86&hide=php&theme=tokyonight" />
-  </a>
-</div>
-<br/>
-<br/>
 
 ## Hi there 👋 I'm Raj,
 - 🔭 I’m currently studying Masters in Utah State University.
@@ -30,3 +20,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<div>
+  <a href="https://github-readme-stats.vercel.app/api?username=rajshrestha86&theme=tokyonight">
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=rajshrestha86&theme=tokyonight" />
+  </a>
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=rajshrestha86&hide=php&theme=tokyonight">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajshrestha86&hide=php&theme=tokyonight" />
+  </a>
+</div>
+<br/>
+<br/>
