@@ -1,13 +1,14 @@
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rajshrestha86&theme=tokyonight)
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=rajshrestha86&hide=php&theme=tokyonight">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajshrestha86&hide=php&theme=tokyonight" />
-</a>
+<div>
+  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rajshrestha86&theme=tokyonight)
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=rajshrestha86&hide=php&theme=tokyonight">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajshrestha86&hide=php&theme=tokyonight" />
+  </a>
+</div>
 <br/>
 <br/>
 
-## Hi there 👋 I'm [Raj],
+## Hi there 👋 I'm Raj,
 - 🔭 I’m currently studying Masters in Utah State University.
-<!-- - 🌱 I’m currently learning ... -->
 - 👯 I’m looking to collaborate on any projects in C, Python and Golang with anyone.
 - 💬 Ask me about anything?
 - 📫 How to reach me: raj.shrestha86@outlook.com
