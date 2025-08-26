@@ -3,8 +3,6 @@
 - 🔭 I’m currently studying Masters in Utah State University.
 - 👯 I’m looking to collaborate on any projects in C, Python and Golang with anyone.
 - 💬 Ask me about anything?
-- 📫 How to reach me: raj.shrestha86@outlook.com
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I can move my left ear.
 <!--
 **rajshrestha86/rajshrestha86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
