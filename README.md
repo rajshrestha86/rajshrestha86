@@ -1,3 +1,7 @@
+
+## Hi there 👋 I'm Raj,
+- 🔭 I love designing and building reliable, scalable distributed systems.
+- 💬 Ask me about Nepal.
 <!--
 **rajshrestha86/rajshrestha86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
